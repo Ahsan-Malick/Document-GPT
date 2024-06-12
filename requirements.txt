@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+langchain
+langchain_community
+streamlit-chat
+sentence-transformers
+
